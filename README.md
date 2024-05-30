@@ -1,6 +1,6 @@
 Run these commands:
 
 ```sh
-cd path/to/your/directory
-g++ -o program program.cpp
+g++ -o program eventMgt.cpp
 ./program
+```
